@@ -1,0 +1,4 @@
+Results/
+.DS_Store
+cmake-build-*/
+.idea/
